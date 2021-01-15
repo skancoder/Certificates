@@ -2,11 +2,14 @@
 List of all the Certificates I have got
 
 ## Udemy
-https://udemy-certificate.s3.amazonaws.com/pdf/UC-81c37eac-e2b8-4460-8e61-aee22bdba79a.pdf
-https://udemy-certificate.s3.amazonaws.com/pdf/UC-a41043cc-4c11-4959-8130-dd5f79f29c48.pdf
 https://udemy-certificate.s3.amazonaws.com/pdf/UC-87d68ded-1fd9-4efd-9cc5-0d9808674a7c.pdf
 https://udemy-certificate.s3.amazonaws.com/pdf/UC-01a4f6f3-7274-4244-8211-10b0fb1f0ac2.pdf
-
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-a41043cc-4c11-4959-8130-dd5f79f29c48.pdf
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-81c37eac-e2b8-4460-8e61-aee22bdba79a.pdf
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-03082933-bcbc-4d83-88ce-ffd51a5c1c44.pdf
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-744f8873-28fa-44bb-a0e2-2d3dd6dd2d4e.pdf
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-137bb754-6380-4056-97f1-4f5d9a5ce29c.pdf
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-58853532-b028-4815-8160-8aeea55b0f42.pdf
 
 ## SkillSoft Python
 https://skillsoft.digitalbadges.skillsoft.com/d84dd248-9e94-4b09-8e5b-86ea4a9bb4ca
